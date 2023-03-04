@@ -9,7 +9,6 @@
 *.kicad_sch-bak
 *-backups
 *.kicad_prl
-*_Panel.kicad_pro
 *.sch-bak
 *~
 _autosave-*
@@ -29,3 +28,7 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Auto generated files from KiKit Plugin
+*_Panel.kicad_pro 
+*panel*.kicad_pro
