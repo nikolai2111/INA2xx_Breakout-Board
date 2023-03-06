@@ -7,7 +7,7 @@
   (paper "A4")
   (title_block
     (title "INA2xx Breakout Board")
-    (date "2023-03-03")
+    (date "2023-03-06")
     (rev "A")
     (company "ElektroNik Zoller")
     (comment 1 "Author: Nikolai Zoller")
