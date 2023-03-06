@@ -565,6 +565,9 @@
   (gr_text "6" (at 157.48 106.68) (layer "F.SilkS") (tstamp 755703a5-d298-4f71-a78d-4b3beaa71c47)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
+  (gr_text "Prj: ${TITLE}\nRev: ${REVISION}" (at 152.4 105.41) (layer "B.Mask") (tstamp 11c7d833-624f-406d-b2d8-eee2ec432bdf)
+    (effects (font (size 0.4 0.4) (thickness 0.1)) (justify mirror))
+  )
 
   (segment (start 144.78 96.52) (end 148.86 100.6) (width 0.25) (layer "F.Cu") (net 1) (tstamp 4eb131e4-9c4a-4911-a444-6c2dad2c5ddf))
   (segment (start 148.86 100.6) (end 150.2 100.6) (width 0.25) (layer "F.Cu") (net 1) (tstamp c415f1dd-2c2b-4d32-afa9-2796fd7b34ce))
